@@ -1,0 +1,54 @@
+
+.globalHeader{
+  margin: 50px 20px 20px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.ting{
+  width: 80px;
+  height: 80px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ting > img {
+  max-height: 100%;
+  border-radius: 50%;
+}
+.globalHeader > input {
+  width: 80%;
+  height: 40px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 0 15px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+
+}
+.globalHeader >button {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 20px;
+  background-color: white;
+
+}
+.globalMain{
+
+}
+.siteList{}
+.siteList > li{
+
+}
+.siteList .site{
+  border: 1px solid red;
+  width: 160px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column ;
+}
+.siteList .site > .logo{}
+.siteList .site > .link{}
+.siteList .addButton{}
