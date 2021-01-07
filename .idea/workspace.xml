@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0b89845-652b-4844-b981-19e68e6195a6" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/1c/7f3d42014222b0e0de9d11d6c10e22.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/29/ed66acb062be10f8279cc305b4c0b6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/3d/f401d4677c04f585a853b766fd7f09.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/54/cdc65f57ac82193b3503127c4f07ee.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/8a/a939114f282fc3b151aa829e1601fe.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/9a/48176f7b05638cebdc6dbdd3dd8078.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/b0/a811544b30a1d2358176399b4c7edd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/da/08a232c1cbdf59a89d017b1b45c27f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Ting.8175935c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/reset.302ca0b1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/reset.302ca0b1.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/reset.302ca0b1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/reset.302ca0b1.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -168,12 +144,12 @@
       <workItem from="1609201354112" duration="250000" />
       <workItem from="1609931392093" duration="12256000" />
       <workItem from="1609979600329" duration="4169000" />
-      <workItem from="1610017288775" duration="9907000" />
+      <workItem from="1610017288775" duration="10120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36285000" />
+    <option name="totallyTimeSpent" value="36498000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -188,7 +164,7 @@
     <frame x="1301" y="4" width="628" height="1049" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3220339" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3220339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -200,7 +176,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19868277" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5049396" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="找到" order="11" />
       <window_info anchor="bottom" id="运行" order="12" />
@@ -266,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
