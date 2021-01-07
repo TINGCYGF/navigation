@@ -4,8 +4,10 @@ console.log($lastLi);
 const x = localStorage.getItem('x')
 const xObject = JSON.parse(x)
 const hashMap = xObject || [
-  {logo: 'A', url: 'https://www.acfun.cn'},
-  {logo: 'B', url: 'https://www.bilibili.com'}
+  {logo: 'M', url: 'https://developer.mozilla.org/zh-CN/'},
+  {logo: 'E', url: 'https://es6.ruanyifeng.com/'},
+  {logo: 'J', url: 'https://wangdoc.com/javascript/basic/introduction.html'},
+  {logo: 'V', url: 'https://cn.vuejs.org/v2/guide/instance.html'}
 ]
 const simplifyUrl = (url) => {
   return url.replace('https://', '')
@@ -23,7 +25,7 @@ const render = () => {
         <div class="link">${simplifyUrl(node.url)}</div>
         <div class="close">
           <svg class="icon">
-            <use xlink:href="#icon-close"></use>
+            <use xlink:href="#icon-x"></use>
           </svg>
         </div>
       </div>
